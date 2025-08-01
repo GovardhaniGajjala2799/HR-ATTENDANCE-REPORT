@@ -1,4 +1,7 @@
 # 📊 Atliq Presence Insights – HR Attendance Dashboard
+
+<img width="903" height="507" alt="Image" src="https://github.com/user-attachments/assets/8f8bf2e7-b667-4cb6-b6a3-c68a70055b59" />
+
 This project presents an interactive HR Analytics dashboard built using **Power BI** to monitor and evaluate employee attendance behavior over three months (April to June). It covers three critical metrics—**Attendance %, Sick Leave %, and Work From Home %**—to assist HR teams and business leaders in making data-driven workforce decisions.
 ---
 
@@ -55,10 +58,10 @@ The **Atliq Presence Insights** dashboard provides an at-a-glance view of employ
 ## 📸 Dashboard Snapshots
 
 ### 🔽 April Report
-![April](https://your-screenshot-host-link.com/April_Report.png)
+<img width="903" height="507" alt="Image" src="https://github.com/user-attachments/assets/8f8bf2e7-b667-4cb6-b6a3-c68a70055b59" />
 
 ### 🔽 May Report
-![May](https://your-screenshot-host-link.com/May_Report.png)
+<img width="903" height="504" alt="Image" src="https://github.com/user-attachments/assets/c22dbb7e-8f59-4d29-9fa8-f5c4f166f987" />
 
 ### 🔽 June Report
-![June](https://your-screenshot-host-link.com/June_Report.png)
+<img width="908" height="508" alt="Image" src="https://github.com/user-attachments/assets/38a33b4d-2e32-4193-8bd6-ec0932be8f31" />
